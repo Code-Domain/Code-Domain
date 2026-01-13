@@ -1,11 +1,10 @@
+<p align="right" >
+  <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/f79dcb15-48c8-45aa-b4e7-b33fb80f8f53" />
+</p>
+
 # Hi 👋, I'm a student developer learning and building as Code-Domain
 
 ### A passionate beginner software developer from India 🇮🇳
-
-<p align="right" width="360" height="360" >
-  <img alt="image" src="https://github.com/user-attachments/assets/f79dcb15-48c8-45aa-b4e7-b33fb80f8f53" />
-</p>
-
 
 - 🌱 Currently learning **Java, Python & DSA**
 - 💻 Interested in **Software Development & Problem Solving**
