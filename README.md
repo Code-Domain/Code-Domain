@@ -1,4 +1,4 @@
-# Hi 👋, I'm a student developer learning and building as Code-Domain
+# Hi 👋, I'm a student developer learning and building as Code Master
 
 ### A passionate beginner software developer from India 🇮🇳
 
