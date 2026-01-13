@@ -27,10 +27,12 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-Domain&show_icons=true&theme=tokyonight" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-domain&show_icons=true&theme=radical" />
 </p>
+
 
 ---
 
