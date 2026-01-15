@@ -29,7 +29,9 @@
 
 ## 📊 GitHub Stats
 
-![Code-Domain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Domain&show_icons=true&theme=radical)
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Code-Domain&show_icons=true&theme=radical" />
+</p>
 
 
 
