@@ -7,7 +7,6 @@
 - 🌱 Currently learning **Java, Python & DSA**
 - 💻 Interested in **Software Development & Problem Solving**
 - 🚀 Building **beginner-friendly projects** step by step
-- 📧 Reach me at: **kishankumar.kt@gmail.com**
 - ⚡ Fun fact: *I learn best by building projects*
 
 ---
