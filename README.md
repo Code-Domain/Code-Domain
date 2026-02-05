@@ -28,10 +28,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-Domain&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Domain&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-Domain&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
+
 
 ---
 
