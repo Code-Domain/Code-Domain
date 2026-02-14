@@ -26,12 +26,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Code-Domain&show_icons=true&theme=radical&cache_seconds=86400"
-    alt="Code-Domain GitHub stats"
-  />
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Domain&" alt="Code-Domain" />
 </p>
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Code-Domain&color=blue)
